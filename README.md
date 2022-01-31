@@ -8,10 +8,12 @@ This Asset only supports Android Platform.
 - Only Support Android 8.0(API Level 26) Above
 - Only Support ARM64 Architecture Device
 
+
+
 ## Documentation
-The [developer guide](https://github.com/hankyojeong/STTS-Mobile-Unity/tree/master/DeveloperGuide) provides a STTS API information
+The [developer guide](https://github.com/DevCoop-code/PanoramaPhotoMaker-Unity/tree/master/DeveloperGuide) provides a STTS API information
 
 ## Suggesting improvements
-To find bugs, make feature requests, or to suggest other improvements, please use [github's issue tracker](https://github.com/hankyojeong/STTS-Mobile-Unity/issues)
+To find bugs, make feature requests, or to suggest other improvements, please use [github's issue tracker](https://github.com/DevCoop-code/PanoramaPhotoMaker-Unity/issues)
 
 ## Download
