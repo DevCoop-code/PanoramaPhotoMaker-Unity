@@ -17,3 +17,4 @@ The [developer guide](https://github.com/DevCoop-code/PanoramaPhotoMaker-Unity/t
 To find bugs, make feature requests, or to suggest other improvements, please use [github's issue tracker](https://github.com/DevCoop-code/PanoramaPhotoMaker-Unity/issues)
 
 ## Download
+<I>Waiting for the evalution</I>
