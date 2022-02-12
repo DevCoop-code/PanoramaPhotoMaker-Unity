@@ -8,7 +8,7 @@ This Asset only supports Android Platform.
 - Only Support Android 8.0(API Level 26) Above
 - Only Support ARM64 Architecture Device
 
-
+<img src="images/panoramaphotomaker_unityasset.gif">
 
 ## Documentation
 The [developer guide](https://github.com/DevCoop-code/PanoramaPhotoMaker-Unity/tree/master/DeveloperGuide) provides a STTS API information
